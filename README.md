@@ -26,16 +26,14 @@
 ```  
     pip install img2pdf 
 ```  
-
 ```  
     pip install ocrmypdf
 ```  
-
 ```  
     pip install PyPDF2
 ```
 
-1. hola
+4. Cortar y pegar la carpeta ***ocrCompresor*** en  ***C:\***
 
 
 
