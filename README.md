@@ -1,5 +1,5 @@
 # OCR 
-[xd IDs](#img2pdf)
+
 ### Script  para añadir capa de ***OCR*** a documentos ***PDF*** y compresión de los mismos.
 
 --- 
@@ -21,11 +21,14 @@
 3. Instalar las siguientes librerias, copia y pega los siguientes comandos en una terminal ***CMD***:
 
 ```  
-pip install img2pdf 
- 
-pip install ocrmypdf
+    pip install img2pdf 
+```  
 
-pip install PyPDF2
+```  
+    pip install ocrmypdf
+```  
+```  
+    pip install PyPDF2
 ```
 
 1. hola
