@@ -14,7 +14,9 @@
 2. Clonar el repositorio
    * ***git clone https://github.com/1franky/pdfOCR.git***
 3. Instalar las siguientes librerias, copia y pega los siguientes comandos en una terminal ***CMD***:
-``` pip install img2pdf ```
+``` 
+pip install img2pdf 
+```
 
 
 
