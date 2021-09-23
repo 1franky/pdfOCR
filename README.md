@@ -1,5 +1,4 @@
 # OCR 
----
 ### Script  para añadir capa de ***OCR*** a documentos ***PDF***.
 --- 
 ## *Requisitos*:
