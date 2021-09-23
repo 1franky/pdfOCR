@@ -27,6 +27,7 @@
 ```  
     pip install ocrmypdf
 ```  
+
 ```  
     pip install PyPDF2
 ```
