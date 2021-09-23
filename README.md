@@ -1,5 +1,5 @@
 # OCR 
-[xd IDs](#Requisitos)
+[xd IDs](#img2pdf)
 ### Script  para añadir capa de ***OCR*** a documentos ***PDF*** y compresión de los mismos.
 
 --- 
