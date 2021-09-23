@@ -33,7 +33,7 @@
     pip install PyPDF2
 ```
 
-4. Cortar y pegar la carpeta ***ocrCompresor*** en  *** C:\ ***
+4. Cortar y pegar la carpeta ***ocrCompresor*** en  ***C:\\***
 
 
 
