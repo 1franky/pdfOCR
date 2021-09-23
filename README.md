@@ -16,6 +16,7 @@
 ## *INSTALACIÓN*
 
 1. Instalar ***[python](https://www.python.org/downloads/)*** asegurate de añadir ***[python](https://www.python.org/downloads/)***  al ***path*** al momento de la instalación e instalar ***pip***.
+
 2. Clonar el repositorio
 ```  
     git clone https://github.com/1franky/pdfOCR.git
