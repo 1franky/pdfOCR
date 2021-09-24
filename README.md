@@ -36,7 +36,10 @@
 4. Cortar y pegar la carpeta ***ocrCompresor*** en  ***C:\\***
 
 ## *Uso*
+### configuracion del *conf.ini* 
+* Abrir con su editor de texto favorito :wink:
 
+![paths!](imagesDocumentacion/paths.png)
 
 
 
