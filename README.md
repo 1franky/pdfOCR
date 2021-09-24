@@ -47,7 +47,7 @@
     pip install ocrmypdf
 ```  
 ```  
-\tpip install PyPDF2
+    pip install PyPDF2
 ```
 
 5. Cortar y pegar la carpeta ***ocrCompresor*** en  ***C:\\***
@@ -64,7 +64,7 @@
 
 ### Si llegaste hasta aqui sin ningún incoveniente ya solo queda disfrutar :blush:
 
-Ejecuta el script dandole doble click pero es mas recomendable hacerlo desde una ventana de comandos para poder visualizar algún error en dado caso que lo hubiera. 
+* Ejecuta el script dandole doble click pero es mas recomendable hacerlo desde una ventana de comandos para poder visualizar algún error en dado caso que lo hubiera. 
 Navega hasta el directorio y ejecuta ***python ocr.py***
 
     ![ejecuta!](imagesDocumentacion/ejecuta.png)
