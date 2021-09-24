@@ -39,8 +39,11 @@
 ### configuracion del *conf.ini* 
 * Abrir con su editor de texto favorito :wink:
 
-![paths!](imagesDocumentacion/paths.png)
+    ![paths!](imagesDocumentacion/paths.png)
 
+    Sustituimos por la ruta a nuestros directorios sobre los que queremos trabajar.
+
+    *urgentes* y *entrega* pueden apuntar hacia el mismo directorio, mientras proceso debe apuntar a otro directorio disntinto fuera de la raiz de los directorios de *urgentes* y *entrega* con el fin de evitar errores ya que el proceso es recursico. *root* debe apuntar a el directorio final donde se depositaran los archivos al final del proceso de ***OCR*** y ***compresión***.
 
 
 
