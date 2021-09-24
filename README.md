@@ -75,7 +75,7 @@ Navega hasta el directorio y ejecuta ***python ocr.py***
 
 
 
-##### A veces el scrip llega a fallar y pero descuida tus archivos estan seguros 
+##### A veces el scrip llega a fallar, pero descuida tus archivos estan seguros y a salvo :anguished:
 Solo debes navegar al tercer directorio que configuraste el paso de edición del **conf.ini** y regresar los archivos a a su directorio inicial.
 
 :smile:
