@@ -62,12 +62,12 @@ choco install pngquant -y
 
     *urgentes* y *entrega* pueden apuntar hacia el mismo directorio, mientras proceso debe apuntar a otro directorio disntinto fuera de la raiz de los directorios de *urgentes* y *entrega* con el fin de evitar errores ya que el proceso es recursico. *root* debe apuntar a el directorio final donde se depositaran los archivos al final del proceso de ***OCR*** y ***compresión***.
 
-* Si llegaste hasta aqui sin ningún incoveniente ya solo queda disfrutar :blush:
+### Si llegaste hasta aqui sin ningún incoveniente ya solo queda disfrutar :blush:
 
 Ejecuta el script dandole doble click pero es mas recomendable hacerlo desde una ventana de comandos para poder visualizar algún error en dado caso que lo hubiera. 
 Navega hasta el directorio y ejecuta ***python ocr.py***
 
-    ![ejecuta!](imagesDocumentacion/ejecuta.png)
+![ejecuta!](imagesDocumentacion/ejecuta.png)
 
     Solo deberas eligir la opcion de acuerdo a tus necesidades la opcion 1 hace referencia al primer directorio que configuraste cuando editaste el archivo **conf.ini** mientras la segunda opción apunta hacia el segundo directorio.
 
