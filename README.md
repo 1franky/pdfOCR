@@ -29,13 +29,13 @@
 ``` 
 4. Abrir una consola ***CMD*** como administrador y pegar los siguiente comandos:
 ``` 
-choco install --pre tesseract -y
+    choco install --pre tesseract -y
 ``` 
 ``` 
-choco install ghostscript -y 
+    choco install ghostscript -y 
 ``` 
 ``` 
-choco install pngquant -y
+    choco install pngquant -y
 ``` 
 
 5. Instalar las siguientes librerias, copia y pega los siguientes comandos en una terminal ***CMD***:
@@ -47,7 +47,7 @@ choco install pngquant -y
     pip install ocrmypdf
 ```  
 ```  
-    pip install PyPDF2
+\tpip install PyPDF2
 ```
 
 5. Cortar y pegar la carpeta ***ocrCompresor*** en  ***C:\\***
@@ -67,7 +67,7 @@ choco install pngquant -y
 Ejecuta el script dandole doble click pero es mas recomendable hacerlo desde una ventana de comandos para poder visualizar algún error en dado caso que lo hubiera. 
 Navega hasta el directorio y ejecuta ***python ocr.py***
 
-![ejecuta!](imagesDocumentacion/ejecuta.png)
+    ![ejecuta!](imagesDocumentacion/ejecuta.png)
 
     Solo deberas eligir la opcion de acuerdo a tus necesidades la opcion 1 hace referencia al primer directorio que configuraste cuando editaste el archivo **conf.ini** mientras la segunda opción apunta hacia el segundo directorio.
 
