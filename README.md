@@ -50,7 +50,7 @@
     pip install PyPDF2
 ```
 
-5. Cortar y pegar la carpeta ***ocrCompresor*** en  ***C:\\***
+6. Cortar y pegar la carpeta ***ocrCompresor*** en  ***C:\\***
 
 ## *Configuración y uso*
 ### configuracion del *conf.ini* 
